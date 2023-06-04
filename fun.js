@@ -15,6 +15,7 @@ if (document.readyState == 'loading') {
 } else {
 	ready();
 }
+xuiasdsadas;
 
 function ready() {
 	var removeCartButtons = document.getElementsByClassName('cart-remove');
