@@ -113,3 +113,7 @@ function updatetotal() {
 
 	document.getElementsByClassName('total-price')[0].innerText = 'RUB' + total;
 }
+
+function newProject() {
+
+}
