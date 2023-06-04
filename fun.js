@@ -115,7 +115,9 @@ function updatetotal() {
 }
 
 class TestClass {
+	name(params) {
 
+	}
 };
 
 function newFunction() {
@@ -125,3 +127,4 @@ function newFunction() {
 function addFunction() {
 
 }
+
