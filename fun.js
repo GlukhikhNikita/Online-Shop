@@ -121,3 +121,7 @@ class TestClass {
 function newFunction() {
 
 }
+
+function addFunction() {
+
+}
