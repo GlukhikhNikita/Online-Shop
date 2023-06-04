@@ -119,3 +119,7 @@ class TestClass {
 
 	}
 };
+
+function newFunction() {
+
+}
