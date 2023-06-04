@@ -112,4 +112,12 @@ function updatetotal() {
 	total = Math.round(total * 100) / 100;
 
 	document.getElementsByClassName('total-price')[0].innerText = 'RUB' + total;
+<<<<<<< HEAD
 }
+=======
+}
+
+class TestClass {
+
+};
+>>>>>>> 8ed1e1e5a79dd11fc32c6d7c3f66967d9b71bd20
